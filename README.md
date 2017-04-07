@@ -1,5 +1,5 @@
 # README.md for sample project
-@@ -25,8 +25,8 @@ The courses comprising the Data Science Specialization are:
+## The courses comprising the Data Science Specialization are:
 
 * Data Scientist's Toolbox
 * R Programming-
